@@ -39,7 +39,7 @@ By using NexShield, you also agree to comply with:
 
 * Discord Terms of Service: https://discord.com/terms
 * Discord Community Guidelines: https://discord.com/guidelines
-* NexShield Privacy Policy: [Insert Privacy Policy URL]
+* NexShield Privacy Policy: https://github.com/VR1206/NexShield-Privacy-Policy.git
 
 Failure to comply with Discord's policies may result in loss of access to NexShield services.
 

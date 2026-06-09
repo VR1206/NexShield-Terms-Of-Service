@@ -1,42 +1,62 @@
-# Homelander Terms of Service
+# NexShield Terms of Service
 
-**Welcome to Homelander! By using our bot, you agree to these terms, so please read them carefully. We may update these terms at any time without prior notice, so be sure to check back regularly for any changes.**
+**Welcome to NexShield! By using our bot, you agree to these Terms of Service. Please read them carefully. We may update these terms from time to time, and continued use of NexShield constitutes acceptance of any changes.**
 
 ## Our Commitment
 
-The creators of Homelander are dedicated to making the bot as helpful and efficient as possible. Therefore, we reserve the right to modify the bot or its services, or to charge for certain features, at any time and for any reason. Rest assured, we will always make it clear what you’re paying for if any charges apply.
+The developers of NexShield are committed to providing a secure, reliable, and feature-rich Discord bot experience. We reserve the right to modify, improve, limit, or discontinue any feature or service at any time. If any premium or paid features are introduced, pricing and benefits will always be clearly communicated.
 
-## Your Responsibilities
+## User Responsibilities
 
-By using Homelander, you agree to the following:
+By using NexShield, you agree to the following:
 
-- **Respect Our Intellectual Property**: You are not permitted to copy, modify, attempt to extract the source code, or create derivative works of the bot. All intellectual property rights related to Homelander belong to us.
-  
-- **Prohibited Actions**:
-  - Do not deceive or mislead us or other users, especially in attempts to gain access to sensitive account information such as passwords.
-  - Do not misuse our support services or submit false abuse reports.
-  - Do not engage in unauthorized framing or linking of our website.
-  - Do not attempt to bypass any security measures designed to prevent or restrict access to Homelander.
-  - Do not use unauthorized automation within Discord.
+### Respect Intellectual Property
+
+You may not copy, modify, reverse engineer, decompile, distribute, sell, or attempt to extract the source code of NexShield unless explicitly authorized by the developers.
+
+### Prohibited Activities
+
+You agree not to:
+
+* Attempt to exploit, abuse, or interfere with NexShield's functionality.
+* Use NexShield for illegal, harmful, abusive, or malicious activities.
+* Mislead, impersonate, or deceive other users or the NexShield team.
+* Submit false reports, abuse support systems, or intentionally waste staff resources.
+* Attempt to bypass security measures or restrictions implemented by NexShield.
+* Use unauthorized automation, self-bots, or other methods that violate Discord's policies.
+
+## Service Availability
+
+While we strive to maintain reliable uptime and functionality, NexShield is provided on an "as is" and "as available" basis. We do not guarantee uninterrupted service, error-free operation, or permanent availability of any feature.
 
 ## Service Changes and Termination
 
-We may update Homelander or stop providing the bot at any time. If we need to terminate the use of the bot, we will notify you in advance.
+We reserve the right to update, suspend, restrict, or discontinue NexShield or any of its features at any time without liability. Users who violate these Terms may be restricted, blacklisted, or permanently banned from using NexShield.
 
 ## Compliance with Discord Policies
 
-By using Homelander, you also agree to comply with 
+By using NexShield, you also agree to comply with:
 
-- [Discord Terms of Service](https://discord.com/terms)
-- [Discord Community Guidelines](https://discord.com/guidelines)
-- [Bot Privacy Policy](https://github.com/VR1206/Homelander-Privacy-Policy.git).
+* Discord Terms of Service: https://discord.com/terms
+* Discord Community Guidelines: https://discord.com/guidelines
+* NexShield Privacy Policy: [Insert Privacy Policy URL]
 
-## Violations and Consequences
+Failure to comply with Discord's policies may result in loss of access to NexShield services.
 
-Violating any of these terms will result in immediate blacklisting and banning from our services.
+## Limitation of Liability
+
+The NexShield team shall not be held liable for any direct, indirect, incidental, consequential, or special damages arising from the use or inability to use the bot.
+
+## Changes to These Terms
+
+We may revise these Terms of Service at any time. Updated versions will become effective immediately upon publication. Continued use of NexShield after changes are made constitutes acceptance of the revised Terms.
 
 ## Contact Us
 
-For support or inquiries, join our [Support Server](https://discord.com/invite/Mr5NhZssvh). If the link does not work, you can email us at theboysdev@protonmail.com.
+For support, questions, or concerns regarding these Terms of Service, please contact the NexShield team through our official support server or designated contact channels.
 
-**Thank you for using Homelander to keep your server secure.**
+## Acceptance
+
+By inviting, using, or interacting with NexShield, you acknowledge that you have read, understood, and agreed to these Terms of Service.
+
+**Thank you for using NexShield to help protect and manage your Discord server.**
